@@ -1,0 +1,2 @@
+# License-Plate-Recognition
+  The project was developed for automating incoming and outgoing traffic on IIT Roorkee (Indian Institute of Technology) Security Gates. The system takes in a video, filters frames then finds if there is a car. If there is a car, it finds its license plate. Then using character recognition tries to predict the license plate number. Further the system connects to a server to get the status of this vehicle and allows automatic entry for employees.
